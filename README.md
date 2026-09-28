@@ -97,3 +97,37 @@ The Power BI Desktop project file is available in this repository:
 - Data Visualization
 - Dashboard Development
 - Business Intelligence Reporting
+
+## 📸 Dashboard Preview
+
+### Worldwide Analysis
+
+![Worldwide Analysis](worldwide-analysis.png)
+
+### Restaurant Analysis
+
+![Restaurant Analysis](restaurant-analysis.png)
+
+## 📱 Mobile Dashboard
+
+The report also includes a dedicated mobile layout. The screenshots below show the complete mobile dashboard from top to bottom.
+
+### Mobile View – Part 1
+
+![Mobile Dashboard – Part 1](mobile-view/mobile-01-top.png)
+
+### Mobile View – Part 2
+
+![Mobile Dashboard – Part 2](mobile-view/mobile-02-kpis-map.png)
+
+### Mobile View – Part 3
+
+![Mobile Dashboard – Part 3](mobile-view/mobile-03-map-filters.png)
+
+### Mobile View – Part 4
+
+![Mobile Dashboard – Part 4](mobile-view/mobile-04-country-city-chart.png)
+
+### Mobile View – Part 5
+
+![Mobile Dashboard – Part 5](mobile-view/mobile-05-chart-bottom.png)
